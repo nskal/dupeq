@@ -1,0 +1,2 @@
+# dupeq
+Duplicate equivalence
