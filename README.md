@@ -1,4 +1,4 @@
-#Test for linear equivalence of 2-to-1 planar functions in characteristic 3
+# Test for linear equivalence of 2-to-1 planar functions in characteristic 3
 
 An implementation of the algorithm described in [Deciding and reconstructing linear equivalence of uniformly distributed functions](https://eprint.iacr.org/2022/666).
 
